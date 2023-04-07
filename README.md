@@ -398,8 +398,8 @@ header nav ul li a {
 
 ▼▼▼▼ 이런식으로 나옴
 
-<img src="2.png">
-
+[<img src="2.png">
+](https://postfiles.pstatic.net/MjAyMzA0MDdfMjMg/MDAxNjgwODUxNDgyODg4.ElN9OJj3v4uMDkjCubZcHzJSF0p9Y5hPwT3GTnMOfScg.-O5VuY5tMCV9Lz2-nEmvMXHhQvXOWsKBSyepbumEPkYg.PNG.dododo968/image.png?type=w966)
 
 
 ▼▼▼▼ display: inline-block; 적용시
