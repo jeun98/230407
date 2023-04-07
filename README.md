@@ -136,8 +136,6 @@ footer ul li:last-child::before {
 --------------------------------------------------------------------------------------------------------
 
 # 05_menu1.css
-
-
 @charset "utf-8";
 
 * {
@@ -171,6 +169,7 @@ body {
     line-height: 30px;
 }
 
+/*** HEADER *************************/
 
 header {
     /*background-color: antiquewhite;*/
@@ -206,6 +205,7 @@ header nav ul li a:hover {
     background-color: lightskyblue;
 }
 
+/** SECTION ****************************/
 
 section {
     width: 90%;
@@ -267,6 +267,7 @@ section .banner .banner2 {
     background-color: yellow;
 }
 
+/** FOOTER *****************************/
 footer {
     width: 100%;
     background-color: lightgray;
