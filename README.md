@@ -384,9 +384,8 @@ header nav ul li a {
 header nav ul li a:hover {
     background-color: lightskyblue;
 }
-내용을 입력하세요.
+
 >>> 이 상태에서 hover 했을때 이런식으로 나옴
-<img src="1.png">
 
 <a>에 display:block; 을 넣어주면 (a태그는 inline요소이기때문에 텍스트 만큼만 배경색이 나와서 block요소로 변경해줌)
 
@@ -395,16 +394,6 @@ header nav ul li a {
     color: #333;
     display: block;
 }
-
-▼▼▼▼ 이런식으로 나옴
-
-[<img src="2.png">
-](https://postfiles.pstatic.net/MjAyMzA0MDdfMjMg/MDAxNjgwODUxNDgyODg4.ElN9OJj3v4uMDkjCubZcHzJSF0p9Y5hPwT3GTnMOfScg.-O5VuY5tMCV9Lz2-nEmvMXHhQvXOWsKBSyepbumEPkYg.PNG.dododo968/image.png?type=w966)
-
-
-▼▼▼▼ display: inline-block; 적용시
-<img src="3.png">
-
 
 
 높이는 모든 높이값이 상속되지 않음 (필요할경우에는 높이를 줘야함)
@@ -421,9 +410,7 @@ float : 부모가 자식의 높이를 읽을 수 없음 / 다음 요소에 영�
 
 ▼▼ 이거 두개는 세트라 같이 작성해줘야함 ▼▼
 
-
 .clear {overflow:hidden;}
 .clear::after {} >> 얘만 작성해도 괜춘
-내용을 입력하세요.
 
 ﻿
