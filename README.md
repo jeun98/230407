@@ -385,8 +385,6 @@ header nav ul li a:hover {
     background-color: lightskyblue;
 }
 
->>> 이 상태에서 hover 했을때 이런식으로 나옴
-
 <a>에 display:block; 을 넣어주면 (a태그는 inline요소이기때문에 텍스트 만큼만 배경색이 나와서 block요소로 변경해줌)
 
 
